@@ -63,4 +63,8 @@ private:
     void update();
 };
 
+<<<<<<< Updated upstream
 #endif /* HALFADDER_H */
+=======
+#endif /* _HALFADDER_H_ */
+>>>>>>> Stashed changes
